@@ -1,0 +1,20 @@
+body {
+  background-color: #000080; 
+  color: #FFDB58;
+font-family: Arial;
+}
+
+header, main {
+  padding: 70px 0;
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+  
+}
+
+#display {
+  font-size: 30px;
+  font-weight: bolder;
+}
